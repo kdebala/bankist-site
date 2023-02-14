@@ -49,6 +49,7 @@ A single-page site created with the purpose of training and showing advanced DOM
 
 In this project I had a chance to put theory into practice.
 Using BEM pattern, screen transitions, sliders, lazy-loading and some other features.
+---
 
 ## Author
 
